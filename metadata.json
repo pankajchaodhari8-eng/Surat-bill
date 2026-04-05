@@ -1,0 +1,7 @@
+{
+  "name": "Remix: suratbill",
+  "description": "A comprehensive Spa Management Point of Sale (POS) application for billing, accounting, customer appointments, and more. It features service and employee management, commission tracking, invoice generation, tax support, and a customer loyalty program, all with a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
